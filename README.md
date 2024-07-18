@@ -1,5 +1,4 @@
 # Thesis_Report
-<<<<<<< HEAD
 
 =======
 
