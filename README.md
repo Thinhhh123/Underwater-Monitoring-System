@@ -5,6 +5,8 @@
 
 # Underwater Monitoring System
 
+
+
 ## Overview
 This repository contains all the code, data, and documentation related to the thesis on the development of an underwater monitoring system. The system integrates an Arduino-based safety tracking subsystem and a Raspberry Pi-based high-level processing subsystem. It collects real-time environmental data, controls LED lighting, processes images, and uploads data to remote servers.
 
