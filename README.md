@@ -55,15 +55,12 @@ This repository contains all the code, data, and documentation related to the th
 - Required Python libraries: OpenCV, numpy, requests
 - ThingSpeak and Firebase accounts
 
-### Installation
-1. **Arduino Setup**: Upload the sketches from the `Arduino_Code/` directory to the Arduino Uno.
-2. **Raspberry Pi Setup**: Install the required Python libraries and run the scripts from the `RaspberryPi_Code/` directory.
 
 ### Usage
 - **Data Collection**: Run the Arduino sketches to start collecting sensor data.
-- **LED Control**: Adjust the LED settings as needed using the Arduino.
-- **Image Processing**: Run `Image_Processing.py` on the Raspberry Pi to start processing images.
-<<<<<<< HEAD
+  
+- **LED Control**: Adjust the LED ON/OFF as needed using the Arduino.
+
 - **Sensor Data Upload**: Use `thingsSpeakAPI.py` to upload data to ThingSpeak
 =======
 - **Image Capturing and Uploading**: Use `Image_processing_uploading.py` to capture and upload processing images to Firebase.
