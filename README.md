@@ -56,7 +56,6 @@ This repository contains all the code, data, and documentation related to the th
 - **Data Upload**: Use `ThingSpeak_Upload.py` to upload data to ThingSpeak, and `Data_Upload.py` for Firebase.
 =======
 - **Data Upload**: Use `ThingSpeak_Upload.py` to upload data to ThingSpeak, and `FiseBase_Upload.py` for Firebase.
->>>>>>> 803976ae0e50f718d082246aa39a820e0a2bdb3c
 
 ## Contributing
 Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
