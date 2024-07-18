@@ -30,8 +30,18 @@ This repository contains all the code, data, and documentation related to the th
 - **Hardware_Design/**: Enclosure design files, wiring diagrams.
 ## Hardware Setup
 
-
 ![image](https://github.com/user-attachments/assets/efbc9689-1087-434f-8160-e0881b1933ba)
+
+![image](https://github.com/user-attachments/assets/a83497e6-4e33-4f48-bd8a-4d5721ecf130)
+
+![image](https://github.com/user-attachments/assets/3271ae14-2e3d-4f12-8714-b21179ff093c)
+
+
+
+## Workflow Diagram
+
+![image](https://github.com/user-attachments/assets/69252219-7145-4dbf-ac0f-2307be2de832)
+
 
 
 ## Getting Started
