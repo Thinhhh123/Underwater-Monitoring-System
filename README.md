@@ -2,18 +2,18 @@
 <<<<<<< HEAD
 
 =======
->>>>>>> 803976ae0e50f718d082246aa39a820e0a2bdb3c
+
 # Underwater Monitoring System
 
 ## Overview
 This repository contains all the code, data, and documentation related to the thesis on the development of an underwater monitoring system. The system integrates an Arduino-based safety tracking subsystem and a Raspberry Pi-based high-level processing subsystem. It collects real-time environmental data, controls LED lighting, processes images, and uploads data to remote servers.
 
 ## Features
-<<<<<<< HEAD
+
 - **Real-Time Environmental Monitoring**: Collects data on temperature, humidity, current, and voltage.
 =======
 - **Real-Time System Performance Tracking**: Collects data on temperature, humidity (System environment) - Current & Voltage of System.
->>>>>>> 803976ae0e50f718d082246aa39a820e0a2bdb3c
+
 - **LED Lighting Control**: Adjusts lighting for optimal camera performance in low-light conditions.
 - **Image Processing**: Uses the OAK-D AI camera for fish detection and counting.
 - **Remote Data Monitoring**: Uploads data to ThingSpeak and Firebase for remote access.
@@ -38,7 +38,7 @@ This repository contains all the code, data, and documentation related to the th
 - Python 3.x
 =======
 - Python 3.9
->>>>>>> 803976ae0e50f718d082246aa39a820e0a2bdb3c
+
 - Required Python libraries: OpenCV, numpy, requests
 - ThingSpeak and Firebase accounts
 
