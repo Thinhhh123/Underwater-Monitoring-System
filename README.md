@@ -30,7 +30,7 @@ This repository contains all the code, data, and documentation related to the th
 - **Data/**: Collected sensor and transmit to Rasbberry Pi.
 - **Documentation/**: Thesis document, system architecture, and flowcharts.
 - **Hardware_Design/**: Enclosure design files, wiring diagrams.
->>>>>>> 803976ae0e50f718d082246aa39a820e0a2bdb3c
+
 
 ## Getting Started
 ### Prerequisites
