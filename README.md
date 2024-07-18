@@ -1,9 +1,7 @@
 # Thesis_Report
 
 
-
 # Underwater Monitoring System
-
 
 
 ## Overview
@@ -30,6 +28,10 @@ This repository contains all the code, data, and documentation related to the th
 - **Data/**: Collected sensor and transmit to Rasbberry Pi.
 - **Documentation/**: Thesis document, system architecture, and flowcharts.
 - **Hardware_Design/**: Enclosure design files, wiring diagrams.
+## Hardware Setup
+
+
+![image](https://github.com/user-attachments/assets/efbc9689-1087-434f-8160-e0881b1933ba)
 
 
 ## Getting Started
@@ -52,9 +54,9 @@ This repository contains all the code, data, and documentation related to the th
 - **LED Control**: Adjust the LED settings as needed using the Arduino.
 - **Image Processing**: Run `Image_Processing.py` on the Raspberry Pi to start processing images.
 <<<<<<< HEAD
-- **Data Upload**: Use `ThingSpeak_Upload.py` to upload data to ThingSpeak, and `Data_Upload.py` for Firebase.
+- **Sensor Data Upload**: Use `thingsSpeakAPI.py` to upload data to ThingSpeak
 =======
-- **Data Upload**: Use `ThingSpeak_Upload.py` to upload data to ThingSpeak, and `FiseBase_Upload.py` for Firebase.
+- **Image Capturing and Uploading**: Use `Image_processing_uploading.py` to capture and upload processing images to Firebase.
 
 ## Contributing
 Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
